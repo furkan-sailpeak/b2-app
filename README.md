@@ -16,7 +16,8 @@ A multi-tenant web application for analyzing B2 accessibility compliance across 
 
 ## 🏢 Supported Banks
 
-- ** 8 Largest Bank in Belgium **
+- **8 Largest Banks in Belgium**
+  
    - BNP Paribas Fortis
    - KBC
    - Belfius
