@@ -38,12 +38,7 @@ The dashboard analyzes four key B2 accessibility categories:
 
 ## 🚀 Live Demo
 
-Access the dashboard at: [Your shinyapps.io URL]
-
-### Demo Access Codes:
-- **Beobank**: `beobank2024`
-- **ING Bank**: `ing2024` 
-- **KBC Bank**: `kbc2024`
+Access the dashboard at: https://devsailpeak.shinyapps.io/sailpeak_demo_dashboard1/
 
 ## 💼 Business Model
 
