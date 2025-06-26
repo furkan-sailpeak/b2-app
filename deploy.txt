@@ -1,0 +1,1 @@
+rsconnect deploy shiny /Users/furkandemir/Desktop/Sailpeak/Accesibility/sailpeak-b2-app --name devsailpeak --title "Sailpeak Demo Dashboard" --entrypoint app_demo_v2:app
