@@ -16,10 +16,15 @@ A multi-tenant web application for analyzing B2 accessibility compliance across 
 
 ## 🏢 Supported Banks
 
-- **Beobank** - Complete B2 accessibility analysis
-- **ING Bank** - Ready for data integration
-- **KBC Bank** - Ready for data integration
-- *More banks can be easily added*
+- ** 8 Largest Bank in Belgium **
+   - BNP Paribas Fortis
+   - KBC
+   - Belfius
+   - Argenta
+   - Keytrade
+   - ING
+   - Beobank
+   - Crelan
 
 ## 📊 Accessibility Metrics
 
